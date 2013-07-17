@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 setup.git
 =========
 Clone and run this on a new EC2 instance running Ubuntu 12.04.2 LTS to
@@ -19,3 +20,7 @@ for more details.
 
 
 
+=======
+bitstarter
+==========
+>>>>>>> 45913a0c416f9354ad2918c084f6b750484cc30f
