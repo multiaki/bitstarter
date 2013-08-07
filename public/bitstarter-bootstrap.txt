@@ -1,1 +1,1 @@
-https://raw.github.com/multiaki/bitstarter/e25c9e23b94ee76f3cbcdb101960e31a158d874a/public/index.html
+https://raw.github.com/multiaki/bitstarter/02c09245b863c25966583a7ff74218bdaa362c61/index.html
