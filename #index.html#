@@ -8,19 +8,6 @@
     <link rel="stylesheet" href="stylesheets/style.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
-    <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-9320607-9']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 </head>
 <body>
     <div class="container header">
@@ -38,30 +25,18 @@
                 <div class="span8">
                     <div class="row-fluid">
                         <div class="span4">
-                            <lorem>800 Backers</lorem>
+                            <lorem>ipsum</lorem>
                         </div>
                         <div class="span4">
-                            <lorem>$2,500 of $10,000</lorem>
+                            <lorem>ipsum</lorem>
                         </div>
                         <div class="span4">
-                            <lorem>24 days left</lorem>
+                            <lorem>ipsum</lorem>
                         </div>
                     </div>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris egestas sapien eleifend purus cursus semper. Nulla nec elementum orci. Etiam ac hendrerit augue. In gravida nisi tristique, ultrices tellus in, vehicula diam. Donec et sapien aliquam, malesuada erat ut, tempor risus. Donec mattis nulla ac elit sollicitudin, sit amet euismod mauris ultrices. Nullam vitae eros et sem congue placerat. Morbi malesuada commodo nunc, rhoncus consectetur ante. Integer a lacus nulla. Donec ullamcorper nec nulla sed porttitor. Morbi malesuada risus nec dolor mollis blandit. Aliquam id orci eget orci viverra convallis ac ac lorem. Ut aliquam libero sit amet posuere aliquet. Praesent convallis odio sed sapien lacinia luctus quis vitae leo.
                     </p>
-                    <!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
-<a class="addthis_button_preferred_1"></a>
-<a class="addthis_button_preferred_2"></a>
-<a class="addthis_button_preferred_3"></a>
-<a class="addthis_button_preferred_4"></a>
-<a class="addthis_button_compact"></a>
-<a class="addthis_counter addthis_bubble_style"></a>
-</div>
-<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52028b124b712009"></script>
-<!-- AddThis Button END -->
                 </div>
             </div>
         </div>
@@ -104,19 +79,8 @@
     <div class="footer"></div>
     <hr style="margin: 30px 0 10px 0;">
     <p>
-        ¬©&nbsp;
-        <a href="#">Aki Sharipov</a>
-        &nbsp;2013
+        Å©&nbsp;
+        <a href="#">Aki Sharipov</a>  &nbsp;2013
     </p>
-    p><script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-9320607-9', 'herokuapp.com');
-  ga('send', 'pageview');
-
-</script>
 </body>
 </html>
